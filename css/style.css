@@ -1,0 +1,14 @@
+/* DEVELOPER: Raymond Z Holte, IS117001, Fall 2025 */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    transition: all 0.3s ease;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+}
+
+.navbar-brand {
+    font-size: 1.8rem;
+}
